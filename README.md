@@ -4,10 +4,7 @@
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
-
-![Entity Relationship Diagram](./orm.png)
-
-Include your ER diagram here
+[Entity Relationship Diagram](./emp.png)
 
 ## DESIGN STEPS
 
@@ -44,9 +41,7 @@ admin.site.register(Employee,EmployeeAdmin)
 ```
 
 ## OUTPUT
-
-![OUTPUT](./ex02ORM.png)
-
+![OUTPUT](./tab.png)
 
 ## RESULT
-Thus the program is successfully executed.
+Thus, the program is successfully executed.
